@@ -1,22 +1,22 @@
 page_title: null
-ios_app_id: 1234793120
-ios_app_country: us
+ios_app_id: 1672840991
+ios_app_country: pt
 appstore_link: null
 playstore_link: null
-presskit_download_link: 'https://emilbaehr.com'
+presskit_download_link: 'https://ezefranca.com/amarelinhos/presskit'
 app_icon: null
 app_name: null
 app_price: null
 app_description: Write a short tagline for your app.
 enable_smart_app_banner: true
-your_name: Emil Baehr
+your_name: @ezefranca
 your_link: 'https://emilbaehr.com'
-your_city: Copenhagen
-email_address: emil.baehr@gmail.com
+your_city: Lisbon
+email_address: ezefranca.br@gmail.com
 facebook_username: null
-instagram_username: ebaehr
-twitter_username: ebaehr
-github_username: emilbaehr
+instagram_username: null
+twitter_username: ezefranca
+github_username: ezefranca
 youtube_username: null
 features:
   - title: Bus Route Search
