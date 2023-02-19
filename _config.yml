@@ -35,45 +35,38 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+- title: Bus Route Search
+  description: Explore all the bus lines across the Lisbon District with our comprehensive list of routes. Use the council filter to quickly find the lines that are most relevant to you.
+  fontawesome_icon_name: fa-bus
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+- title: Favorite Lines
+  description: Save your favorite bus lines for quick and easy access in one convenient location. The favorite lines screen provides all the information you need, including availability, time schedule, maps, route, next service, and the option to enable live activity.
+  fontawesome_icon_name: fa-heart
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+- title: App Settings
+  description: Customize the app to your liking with our easy-to-use settings view. Access privacy controls, a small Moovit widget, and a speedometer, all from one central location.
+  fontawesome_icon_name: fa-cog
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+- title: Line Details View
+  description: Get all the information you need about a specific bus line in one easy-to-use screen. The Line Details View shows availability, time schedule, maps, route, next service, and the option to favorite, as well as the option to enable live activity.
+  fontawesome_icon_name: fa-info-circle
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+- title: Council Filter
+  description: Easily find the bus lines that are most relevant to you with our convenient council filter. This feature lets you quickly filter the list of bus lines by council, so you can easily find the ones that serve your area.
+  fontawesome_icon_name: fa-filter
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+- title: Live Activity
+  description: Get real-time information about your favorite bus lines with our live activity feature. Simply enable live activity for your favorite lines, and you'll receive notifications about delays, changes, and other important information.
+  fontawesome_icon_name: fa-bell
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+- title: Comprehensive Information
+  description: Our app provides all the information you need about bus lines across the Lisbon District. From availability and schedules to maps and routes, we've got you covered.
+  fontawesome_icon_name: fa-clipboard
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+- title: Multi-language Support
+  description: Our app supports multiple languages, so you can easily use it no matter what language you speak. Choose your preferred language from the settings view.
+  fontawesome_icon_name: fa-language
+
 
 
 
