@@ -1,6 +1,6 @@
 page_title: null
 ios_app_id: 1234793120
-ios_app_country: us
+ios_app_country: pt
 appstore_link: null
 playstore_link: null
 presskit_download_link: 'https://ezefranca.com/amarelinhos/presskit'
@@ -9,7 +9,7 @@ app_name: null
 app_price: null
 app_description: Write a short tagline for your app.
 enable_smart_app_banner: true
-your_name: @ezefranca
+your_name: ezefranca
 your_link: 'https://ezefranca.com'
 your_city: Lisbon
 email_address: ezefranca.br@gmail.com
