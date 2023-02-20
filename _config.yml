@@ -1,5 +1,5 @@
 page_title: null
-ios_app_id: 1234793120
+ios_app_id: 1672840991
 ios_app_country: pt
 appstore_link: null
 playstore_link: null
@@ -74,7 +74,7 @@ topbar_title_color: '#ffffff'
 cover_image: assets/headerimagenew.png
 cover_overlay_color: '#363b3d'
 cover_overlay_transparency: 0.8
-device_color: black
+device_color: yellow
 body_background_color: '#ffffff'
 link_color: '#1d63ea'
 app_title_color: '#ffffff'
