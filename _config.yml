@@ -13,11 +13,8 @@ your_name: @ezefranca
 your_link: 'https://ezefranca.com'
 your_city: Lisbon
 email_address: ezefranca.br@gmail.com
-facebook_username: null
-instagram_username: null
 twitter_username: ezefranca
 github_username: ezefranca
-youtube_username: null
 features:
   - title: Bus Route Search
     description: >-
