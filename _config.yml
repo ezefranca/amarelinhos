@@ -7,7 +7,7 @@ presskit_download_link: 'https://ezefranca.com/amarelinhos/presskit'
 app_icon: null
 app_name: null
 app_price: null
-app_description: Write a short tagline for your app.
+app_description: Explore Lisbon District with our comprehensive bus metropolitan lines guide. Find routes, schedules, maps and more.
 enable_smart_app_banner: true
 your_name: ezefranca
 your_link: 'https://ezefranca.com'
@@ -21,53 +21,51 @@ features:
       Explore all the bus lines across the Lisbon District with our
       comprehensive list of routes. Use the council filter to quickly find the
       lines that are most relevant to you.
-    fontawesome_icon_name: fa-bus
+    fontawesome_icon_name: bus
   - title: Favorite Lines
     description: >-
       Save your favorite bus lines for quick and easy access in one convenient
       location. The favorite lines screen provides all the information you need,
       including availability, time schedule, maps, route, next service, and the
       option to enable live activity.
-    fontawesome_icon_name: fa-heart
-  - title: App Settings
+    fontawesome_icon_name: heart
+  - title: Utils
     description: >-
       Customize the app to your liking with our easy-to-use settings view.
       Access privacy controls, a small Moovit widget, and a speedometer, all
       from one central location.
-    fontawesome_icon_name: fa-cog
+    fontawesome_icon_name: cog
   - title: Line Details View
     description: >-
       Get all the information you need about a specific bus line in one
       easy-to-use screen. The Line Details View shows availability, time
       schedule, maps, route, next service, and the option to favorite, as well
       as the option to enable live activity.
-    fontawesome_icon_name: fa-info-circle
+    fontawesome_icon_name: info-circle
   - title: Council Filter
     description: >-
       Easily find the bus lines that are most relevant to you with our
       convenient council filter. This feature lets you quickly filter the list
       of bus lines by council, so you can easily find the ones that serve your
       area.
-    fontawesome_icon_name: fa-filter
+    fontawesome_icon_name: filter
   - title: Live Activity
     description: >-
-      Get real-time information about your favorite bus lines with our live
-      activity feature. Simply enable live activity for your favorite lines, and
-      you'll receive notifications about delays, changes, and other important
-      information.
-    fontawesome_icon_name: fa-bell
+      Getcinformation about your favorite bus lines with our live
+      activity feature.
+    fontawesome_icon_name: bell
   - title: Comprehensive Information
     description: >-
       Our app provides all the information you need about bus lines across the
       Lisbon District. From availability and schedules to maps and routes, we've
       got you covered.
-    fontawesome_icon_name: fa-clipboard
+    fontawesome_icon_name: clipboard
   - title: Multi-language Support
     description: >-
       Our app supports multiple languages, so you can easily use it no matter
       what language you speak. Choose your preferred language from the settings
       view.
-    fontawesome_icon_name: fa-language
+    fontawesome_icon_name: language
 topbar_color: '#000000'
 topbar_transparency: 0.1
 topbar_title_color: '#ffffff'
